@@ -1,2 +1,2 @@
-# MixedReality-SpectatorView
-MixedReality-SpectatorView
+# MixedReality-SpectatorView-demo
+MixedReality-SpectatorView-demo
